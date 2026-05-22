@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1774619229 source:c:\users\dimak\onedrive\Робочий стіл\Лаби\ПЗВПКС\Лаба 4\lab4\main.cpp
+	<iostream>
+	<vector>
+	<omp.h>
+	<algorithm>
+	<limits>
+	<string>
+
